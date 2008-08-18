@@ -1,0 +1,7 @@
+Additional data types for DataMapper
+
+- DateTimeNoTZ
+
+DateTime with no Time Zone - Allows UTC-based database timestamp fields to work correctly
+
+
